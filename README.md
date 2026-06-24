@@ -88,18 +88,6 @@ Power integrity signoff isn't one check — it's a stack of interdependent analy
 
 
 
-\## Images 
-
-!(./images/1img.png)
-!(./images/2img.png)
-!(./images/3img.png)
-!(./images/4img.png)
-!(./images/5img.png)
-!(./images/6img.png)
-!(./images/7img.png)
-!(./images/8img.png)
-!(./images/9img.png)
-!(./images/10img.png)
 
 
 
